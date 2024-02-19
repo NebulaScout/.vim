@@ -1,11 +1,7 @@
-# Ignore everything
-*
-
-# But not these files...
-!*.vimrc
-!*.vim
-!*.bashrc
-!.gitignore
-
-# etc...
 .DS_Store
+
+# All .swp
+*.swp
+
+# History file
+.netrwhist
